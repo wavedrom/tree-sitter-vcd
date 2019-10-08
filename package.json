@@ -28,8 +28,8 @@
     "example": "examples"
   },
   "scripts": {
-    "install": "node bin/install.js",
-    "prepare": "node bin/install.js",
+    "install": "./bin/install.js",
+    "prepare": "./bin/install.js",
     "test": "tree-sitter test"
   },
   "dependencies": {
