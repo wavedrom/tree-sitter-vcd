@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-vcd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "VCD grammar for tree-sitter",
   "license": "MIT",
   "author": "Aliaksei Chapyzhenka",
